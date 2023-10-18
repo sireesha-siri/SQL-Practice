@@ -1,8 +1,8 @@
-create database mylearing;
+create database mylearing; -- creating a databse
 
-show databases;
+show databases; -- displaying the databases
 
-drop database mylearing;
+drop database mylearing; -- dropping the databse
 
 create database mylearning; -- creating a databse
 
